@@ -1,6 +1,6 @@
 # Aadhaar OCR
 
-With this repo you'll be able to mask aadhaar number from aadhaar document aadhaar front / back , i trained custom model over 20K aadhaar dataset using Yolo(Tensorflow)
+With this repo you'll be able to extract data from aadhaar front / back images only 
 
 ### Requirenments 
  - Python Version >3.5 
