@@ -20,6 +20,7 @@ https://drive.google.com/file/d/1c6nYJ-tX0aZjvQHLG_W5u5KW7hjiXMQB/view?usp=shari
 ```
 ### Usage
 ```
+Add keys aws reckognition keys in execute.py 
 python3 exeute.py 
 ```
 
