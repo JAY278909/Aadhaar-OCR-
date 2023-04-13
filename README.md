@@ -1,6 +1,7 @@
 # Aadhaar OCR Using AWS Reckognition
 
-With this repo you'll be able to extract data from aadhaar front / back images only 
+Extract data from aadhaar (front / back) using AWS Reckognition you can use pytessaract too but for better results i would suggest use recokgnition
+
 
 ### Requirenments 
  - AWS Reckognition Credentials would be required
